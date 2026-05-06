@@ -2390,6 +2390,9 @@ ul {
   background: rgba(234, 242, 226, 0.95);
   box-shadow: 0 14px 28px rgba(91, 116, 84, 0.12);
 }
+.procedures-controls {
+  display: none;
+}
 @media (max-width: 600px) {
   .procedures-controls {
     margin-top: 18px;
@@ -2400,6 +2403,9 @@ ul {
     width: 44px;
     height: 44px;
     font-size: 18px;
+  }
+  .procedures-controls {
+    display: flex;
   }
 }
 
