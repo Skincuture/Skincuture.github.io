@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skincuture.github.io/sitemap.xml
